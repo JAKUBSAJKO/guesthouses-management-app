@@ -1,0 +1,8 @@
+{
+  "welcome": "Witaj w aplikacji",
+  "language": "Język",
+  "buttons": {
+    "save": "Zapisz",
+    "cancel": "Anuluj"
+  }
+}
